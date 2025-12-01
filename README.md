@@ -25,6 +25,13 @@ I performed end-to-end Exploratory Data Analysis (EDA) to identify key patterns,
 
 ## 📁 Project Structure
 
+📦 ibm-hr-attrition-eda/
+┣ 📄 notebook.ipynb
+┣ 📄 employee_attrition.csv
+┣ 📁 figures/
+┣ 📄 README.md
+┗ 📄 requirements.txt
+
 ---
 
 ## 📊 Key Insights
